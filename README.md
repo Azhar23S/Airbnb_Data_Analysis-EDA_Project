@@ -1,4 +1,4 @@
-# <p align="center">📊 Airbnb Data Analysis - EDA Project <img src="https://www.theriver.asia/wp-content/uploads/2020/01/pngkey.com-airbnb-logo-png-605967.png" alt="airbnb" width="35" height="35"/></p>
+# <p align="center"><img src="https://www.theriver.asia/wp-content/uploads/2020/01/pngkey.com-airbnb-logo-png-605967.png" alt="airbnb" width="35" height="35"/> Airbnb Data Analysis - EDA Project 📊</p>
 
 <p align="center">I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Airbnb using Python</p>
 
