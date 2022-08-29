@@ -37,6 +37,8 @@ Dataset: <code>[Airbnb Dataset](https://github.com/Azhar23S/Airbnb_Data_Analysis
 
 <h2><b>Objectives</b></h2>
 
+(Note: The Visualized images may not be visible when you open the .ipynb file in Github itself. Kindly download the file and run to see the Visualization)
+
 1. Data Cleaning and Statics using Pandas
 2. Correlation Heatmap between Variables <p align="center"><img src="https://github.com/Azhar23S/Airbnb_Data_Analysis-EDA_Project/blob/main/Correlation%20Heatmap.png"/></p>
 3. Frequency of Neighbourhood in NYC <p align="center"><img src="https://github.com/Azhar23S/Airbnb_Data_Analysis-EDA_Project/blob/main/Frequency%20of%20Neighbourhood%20in%20NYC.png"/></p>
